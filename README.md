@@ -1,1 +1,2 @@
 # Real-Estate-Price-Prediction
+The "Real Estate Price Prediction" project leverages machine learning, particularly regression models like linear regression or ensemble methods such as Random Forest. The goal is to forecast real estate prices by analyzing essential features like square footage, bedrooms, bathrooms, location, amenities, and historical price trends. Through training and evaluation using metrics like Mean Squared Error and R-squared, the model aims to provide accurate predictions, serving as a valuable tool for stakeholders in the real estate market.
